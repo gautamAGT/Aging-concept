@@ -144,7 +144,7 @@ report 50350 "Inventory Valuation custom"
                 column(Quantity_0_6M; TempEntryBuffer.Quantity0_6M) { }
                 column(Quantity_6_12M; TempEntryBuffer.Quantity6_12M) { }
                 column(Quantity_OlderThan_12M; TempEntryBuffer.QuantityOlderThan12M) { }
-                //GR--
+                //GR17sep2025--
 
                 trigger OnAfterGetRecord()
                 begin
