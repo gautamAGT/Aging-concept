@@ -103,11 +103,7 @@ report 50219 "Customer Aging"
             }
         }
 
-        // trigger OnOpenPage()
-        // begin
-        //     if SelectedDate = 0D then
-        //         SelectedDate := WorkDate();
-        // end;
+
     }
 
     trigger OnPreReport()
